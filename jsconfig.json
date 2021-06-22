@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./src",
+		"target": "es2020",
+		"module": "es6",
+		"paths": {
+			"components/*": [
+				"./src/components/*"
+			],
+			"lib/*": [
+				"./src/lib/*"
+			],
+			"theme": [
+				"./src/theme.js"
+			],
+		}
+	},
+	"exclude": [
+		"node_modules/"
+	]
+}
