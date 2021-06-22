@@ -1,7 +1,7 @@
-import TopNav from './top';
+import TopNav from "./top";
 
 const Nav = () => {
-	return <TopNav />
-}
+	return <TopNav />;
+};
 
 export default Nav;

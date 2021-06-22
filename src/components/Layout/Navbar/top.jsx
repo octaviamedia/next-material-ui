@@ -8,7 +8,7 @@ const TopNav = () => {
 
 			</div>
 		</Toolbar>
-	</AppBar>
-}
+	</AppBar>;
+};
 
 export default TopNav;
